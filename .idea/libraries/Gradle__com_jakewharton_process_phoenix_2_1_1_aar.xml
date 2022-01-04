@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton:process-phoenix:2.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d16e12751e9d790a60ba28af26df906/process-phoenix-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d16e12751e9d790a60ba28af26df906/process-phoenix-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d16e12751e9d790a60ba28af26df906/process-phoenix-2.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton/process-phoenix/2.1.1/4e63ab78744ece1b9cc5eccc96c860174eaf2d0e/process-phoenix-2.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton/process-phoenix/2.1.1/99e5cf913e4fa8d7fcc7ab7713c78b5b08fb6b4f/process-phoenix-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

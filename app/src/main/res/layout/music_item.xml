@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardElevation="8dp"
+    app:cardCornerRadius="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/music_list_image"
+            android:src="@drawable/ic_baseline_play_circle_filled_24"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:contentDescription="@string/list_view_image"
+            app:tint="@color/white" />
+
+        <LinearLayout
+            android:id="@+id/music_text_layout"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="64dp"
+            android:orientation="vertical"
+            android:layout_toEndOf="@id/music_list_image"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/music_item_name"
+                android:maxLines="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+
+            <TextView
+                android:id="@+id/music_item_artist"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

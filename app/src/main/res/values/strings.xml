@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">redelcom_test</string>
+    <string name="text_search">Buscar</string>
+    <string name="list_view_image">List view image</string>
+    <string name="list_item_title">Titulo</string>
+    <string name="list_item_subtitle">subtitle</string>
+    <string name="no_data">No more items</string>
+    <string name="no_load_more">"Can't load more results"</string>
+    <string name="search">Buscar</string>
+    <string name="image_song">Image Song</string>
+    <string name="not_network_message">Not network avalaible, check connection and restart the app or select a preview search in historic from input</string>
+    <string name="not_network_alert_message">You are currently not connected to the internet, you can continue and view previous searches or verify your connection and restart the application.</string>
+    <string name="not_network_alert_title">You are not connected</string>
+    <string name="not_network_alert_yes">Continue</string>
+    <string name="not_network_alert_no">Restart</string>
+    <string name="icon_hist_item">historic item icon</string>
+</resources>
